@@ -7,7 +7,7 @@ Open the terminal and type:
 $ mvn clean install -U -DskipTests
 $ mvn spring-boot:run
 ```
-Link below for more info about ActiveMQ:
+Link for more info about ActiveMQ:
 [ActiveMQ](http://activemq.apache.org/)
 
 After starting the broker, be sure it`s working:
